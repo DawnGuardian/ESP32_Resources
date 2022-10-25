@@ -1,5 +1,5 @@
-#ifndef EXTENSION_ESP_32_H
-#define EXTENSION_ESP_32_H
+#ifndef EXTENSION_ESP_32_HPP
+#define EXTENSION_ESP_32_HPP
 
 #include <Arduino.h>
 

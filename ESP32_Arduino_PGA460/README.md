@@ -1,3 +1,0 @@
-The *PGA460* from **Texas Instruments** is a  ultrasonic signal processor and transducer driver. It is succeeded by the *PGA460-Q1*, which is described as a automotive ultrasonic signal processor and transducer driver. The only difference between the two chips are the environments to which they may be deployed, with the more expensive *PGA460-Q1* able to tolerate harsher conditions.
-
-The libraries in this folder are meant for a *ESP32-WROOM-32E* with an Arduino base to connect to and control the *PGA460* chip. Included are the base configurations for 4 of the common ultrasonic transducers paired with the *PGA460* chip.
